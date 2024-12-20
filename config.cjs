@@ -1,10 +1,10 @@
 module.exports = {
   "ALIVE_IMG": "",
-  "FOOT": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
+  "FOOT": "DORA-MD",
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
   "MODE": "private",
-  "BOT_NUMBER": "94742274855",
+  "BOT_NUMBER": "94743454928",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": "false",
   "AUTO_VOICE": "false",
@@ -22,6 +22,6 @@ module.exports = {
   "OWNER_NUMBER": "94742274855",
   "AUTO_BIO": "true",
   "AUTO_TYPING": "false",
-  "AUTO_RECORDING": "false",
+  "AUTO_RECORDING": "true",
   "WARN_COUNT": "3",
 };
